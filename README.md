@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Challenge: Natalia Vodianova</title>
+        <title>Challenge: Natalia Vodianova </title>
         <style>
             body {
                 font-family: cursive;
