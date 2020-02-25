@@ -27,12 +27,9 @@
         
         <div class="photo-gallery">
         
-            <img class="photo" src="https://www.kasandbox.org/programming-images/animals/boxer-getting-tan.png">
+            <img class="photo" src="<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Natalia_Vodianova_20090408_Etam_46.jpg">
             
-            <img class="photo" src="https://www.kasandbox.org/programming-images/animals/boxer-laying-down.png">
-            
-            <img class="photo" src="https://www.kasandbox.org/programming-images/animals/boxer-wagging-tongue.png">
-            
+           
         </div>
         
     </body>
