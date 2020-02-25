@@ -27,7 +27,7 @@
         
         <div class="photo-gallery">
         
-            <img class="photo" src="<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Natalia_Vodianova_20090408_Etam_46.jpg">
+            <img src="<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Natalia_Vodianova_20090408_Etam_46.jpg">
             
            
         </div>
