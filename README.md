@@ -6,7 +6,7 @@
             body {
                 font-family: cursive;
             }
-            bacground-color:rgb(200,150,100);
+            background-color:rgb(200,150,100);
         </style>
     </head>
     <body>
