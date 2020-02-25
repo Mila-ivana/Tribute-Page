@@ -40,7 +40,7 @@
  
 <style>
     body {
-        background-color:yellow;
+        background-color:rgb(200,100,100);
     }
         #sanya{
            color:rgb(44, 201, 20); 
