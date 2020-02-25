@@ -4,7 +4,6 @@
         <title>Challenge: Natalia Vodianova </title>
         <style>
              body {
-                font-family: cursive;
             background-color: rgb(207, 55, 35);
             }
            
