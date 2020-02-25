@@ -19,7 +19,7 @@
         
        <ol>
       <strong> Nanshan Culture Tourism Zone</strong>
-           <li><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Haishangguanyin.jpg" alt="buddha statue" width="120" height="90"> Buddhism Culture Park was developed to portray the Buddhist culture and help people understand its profound philosophy.Visitors also are attracted to the area because of the profound Buddhist influence on the surrounding culture. The zone features three theme parks: Buddhism Culture Park, Blessing and Longevity Park, and Hainan Custom Culture Park.
+           <li><img src="<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Natalia_Vodianova_20090408_Etam_46.jpg" alt="Image result for site:wikipedia.org natalia vodyanova"/>" alt="buddha statue" width="120" height="90"> Buddhism Culture Park was developed to portray the Buddhist culture and help people understand its profound philosophy.Visitors also are attracted to the area because of the profound Buddhist influence on the surrounding culture. The zone features three theme parks: Buddhism Culture Park, Blessing and Longevity Park, and Hainan Custom Culture Park.
   </li>
        <strong>Luhuitou Peninsula</strong>
            <li><img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luhuitou.JPG/190px-Luhuitou.JPG" alt="Luhuitou Park" width="120" height="90"> There once lived a diligent and brave hunter in the Wuzhi Mountain area so the legend goes. This young man came across a charming deer one day while out hunting in the mountain. He chased the deer for about nine days and nights, traversing numerous hills and dales. </li>
