@@ -10,7 +10,7 @@
                 width: 219px;
                 height:153px;
                 border-style:inset;
-                border-width:39px;
+                border-width:90px;
                 border-color:brown;
                 border:-33px dotted red;
                  margin:59px;
