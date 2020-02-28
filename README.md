@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Challenge: Natalia Vodianova </title>
+        <title>Challenge: Natalia Vodianova-is a Russian model, philanthropist, entrepreneur, and public speaker. </title>
         <style>
              body {
             background-color: rgb(207, 55, 35);
