@@ -12,7 +12,7 @@
                 border-style:inset;
                 border-width:90px;
                 border-color:brown;
-                border:-33px dotted red;
+                border:20px dotted red;
                  margin:59px;
                  padding:-13px; 
                
